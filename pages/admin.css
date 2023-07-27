@@ -1,0 +1,31 @@
+.admin {
+  padding-top: 2rem;
+}
+
+.admin .parent {
+  display: flex;
+  height: 700px;
+}
+
+.admin .sec-prods {
+  flex: 3;
+  height: 100%;
+  padding: 15px 90px;
+}
+
+.admin .sec-coupons {
+  flex: 2;
+  height: 100%;
+}
+
+.admin .form {
+  text-align: left;
+  border: 1px solid #aeaeae;
+  border-radius: 5px;
+  padding: 15px 25px;
+  background-color: white;
+}
+
+.admin h3 {
+  text-align: center;
+}

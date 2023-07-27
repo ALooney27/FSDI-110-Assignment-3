@@ -1,0 +1,15 @@
+.cart {
+  padding-top: 1rem;
+}
+
+.cart .partent {
+  display: flex;
+}
+
+.cart .list {
+  flex: 3;
+}
+
+.cart .side {
+  flex: 1;
+}

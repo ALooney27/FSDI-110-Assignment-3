@@ -1,0 +1,21 @@
+.product {
+  border: 1px solid #6a6a6a;
+  display: inline-block;
+  margin: 5px;
+  height: 400px;
+  width: 240px;
+  border-radius: 5px;
+}
+
+.product .prices {
+  display: flex;
+}
+
+.product .prices label {
+  flex: 1;
+}
+
+.product img {
+  width: 220px;
+  height: 220px;
+}
